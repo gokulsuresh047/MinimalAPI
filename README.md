@@ -45,7 +45,7 @@ dotnet run --project Msk.Api
 
 ---
 
-## Optional: Switch to SQL later
+## Future Enhancements: Switch to SQL later
 
 Replace InMemory with SQL Server in DI and add a connection string—no API/Angular changes needed.
 
